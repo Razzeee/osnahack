@@ -170,3 +170,21 @@ Durch unser Device, welches mit einem Lichtsensor, zur Messung der Funktion der 
 **Platzierung:** 2. Platz
 
 **Link GitHub Repo:**
+
+# Osnahack 2020
+
+## Die Projekte
+
+
+
+# Osnahack 2021
+
+## Die Projekte
+
+1. MMV
+2. Rout.ly
+3. OsnaTrack
+4. OSNavigation
+5. Digital Depot
+6. OS-City-Quartett
+7. stadtteilbauern
